@@ -1,7 +1,7 @@
 name: Mikey 2 Times
 favicon: null
-layout_spectrum: 0.8187956605106592
-typography_spectrum: 0.8750886367633939
+layout_spectrum: 1
+typography_spectrum: 0.39595
 cta:
   domain: null
   bucket: null

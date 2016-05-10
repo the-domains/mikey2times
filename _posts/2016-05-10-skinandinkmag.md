@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "2.5 years in shop experience. Apprenticed under famed tattoo'er, Damon Conklin at Super Genius Tattoo in Seattle, WA. Studied under Zez as a tattoo'er at Emporium of Design in Denver, Colorado."
-datePublished: '2016-05-10T03:49:54.458Z'
-dateModified: '2016-05-10T03:48:42.478Z'
+datePublished: '2016-05-10T03:52:03.104Z'
+dateModified: '2016-05-10T03:51:43.712Z'
 title: SkinandInkMag
 author:
   - name: ''
@@ -17,8 +17,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-10-skinandinkmag.md
+starred: true
 url: skinandinkmag/index.html
 _type: Article
 
